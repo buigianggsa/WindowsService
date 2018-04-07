@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-16"?>
+<DevTrackerData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SolutionTotalEditTime="PT3M41.6666648S" SolutionTotalViewTime="PT15M28.9292997S" SolutionTotalDebugTime="PT0S">
+  <FileVersion>
+    <Major>1</Major>
+    <Minor>0</Minor>
+  </FileVersion>
+  <SessionTimeList />
+  <LastSessionTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT3M47.9566512S" EditActiveTime="PT23.1845881S">
+      <ModifiedDate>2018-04-05T22:42:27.7033629+07:00</ModifiedDate>
+      <ModifiedBy>Bui Duc Giang</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Bui Duc Giang\Desktop\Demo_WEB\FirstWindowsService\Program.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Bui Duc Giang\Desktop\Demo_WEB\FirstWindowsService\FirstWindowsService.csproj</ProjectName>
+      <CreatedDate>2018-04-05T22:21:40.9957013+07:00</CreatedDate>
+      <ViewedBy>Bui Duc Giang</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT4M10.7267078S" EditActiveTime="PT32.7952637S">
+      <ModifiedDate>2018-04-05T23:05:33.4886819+07:00</ModifiedDate>
+      <ModifiedBy>Bui Duc Giang</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Bui Duc Giang\Desktop\Demo_WEB\FirstWindowsService\ProjectInstaller.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Bui Duc Giang\Desktop\Demo_WEB\FirstWindowsService\FirstWindowsService.csproj</ProjectName>
+      <CreatedDate>2018-04-05T22:21:03.1774033+07:00</CreatedDate>
+      <ViewedBy>Bui Duc Giang</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT0.0244791S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Bui Duc Giang\Desktop\Demo_WEB\FirstWindowsService\ProjectInstaller.Designer.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Bui Duc Giang\Desktop\Demo_WEB\FirstWindowsService\FirstWindowsService.csproj</ProjectName>
+      <CreatedDate>2018-04-05T22:29:20.8612191+07:00</CreatedDate>
+      <ViewedBy>Bui Duc Giang</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT0.0430097S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Bui Duc Giang\Desktop\Demo_WEB\FirstWindowsService\ProjectInstaller.resx</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Bui Duc Giang\Desktop\Demo_WEB\FirstWindowsService\FirstWindowsService.csproj</ProjectName>
+      <CreatedDate>2018-04-05T22:29:20.8387042+07:00</CreatedDate>
+      <ViewedBy>Bui Duc Giang</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M30.9922782S" EditActiveTime="PT5.2858867S">
+      <ModifiedDate>2018-04-05T22:57:24.5761607+07:00</ModifiedDate>
+      <ModifiedBy>Bui Duc Giang</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Bui Duc Giang\Desktop\Demo_WEB\FirstWindowsService\Service1.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Bui Duc Giang\Desktop\Demo_WEB\FirstWindowsService\FirstWindowsService.csproj</ProjectName>
+      <CreatedDate>2018-04-05T22:42:29.4389227+07:00</CreatedDate>
+      <ViewedBy>Bui Duc Giang</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT5M59.2191761S" EditActiveTime="PT2M40.3999441S">
+      <ModifiedDate>2018-04-05T23:25:02.2264698+07:00</ModifiedDate>
+      <ModifiedBy>Bui Duc Giang</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Bui Duc Giang\Desktop\Demo_WEB\FirstWindowsService\Utilities.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Bui Duc Giang\Desktop\Demo_WEB\FirstWindowsService\FirstWindowsService.csproj</ProjectName>
+      <CreatedDate>2018-04-05T22:07:27.6243961+07:00</CreatedDate>
+      <ViewedBy>Bui Duc Giang</ViewedBy>
+    </DevTrackerDataItem>
+  </LastSessionTimeList>
+  <TotalTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT3M47.9566512S" EditActiveTime="PT23.1845881S">
+      <ModifiedDate>2018-04-05T22:42:27.7033629+07:00</ModifiedDate>
+      <ModifiedBy>Bui Duc Giang</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Bui Duc Giang\Desktop\Demo_WEB\FirstWindowsService\Program.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Bui Duc Giang\Desktop\Demo_WEB\FirstWindowsService\FirstWindowsService.csproj</ProjectName>
+      <CreatedDate>2018-04-05T22:21:40.9957013+07:00</CreatedDate>
+      <ViewedBy>Bui Duc Giang</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT4M10.7267078S" EditActiveTime="PT32.7952637S">
+      <ModifiedDate>2018-04-05T23:05:33.4886819+07:00</ModifiedDate>
+      <ModifiedBy>Bui Duc Giang</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Bui Duc Giang\Desktop\Demo_WEB\FirstWindowsService\ProjectInstaller.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Bui Duc Giang\Desktop\Demo_WEB\FirstWindowsService\FirstWindowsService.csproj</ProjectName>
+      <CreatedDate>2018-04-05T22:21:03.1774033+07:00</CreatedDate>
+      <ViewedBy>Bui Duc Giang</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT0.0244791S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Bui Duc Giang\Desktop\Demo_WEB\FirstWindowsService\ProjectInstaller.Designer.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Bui Duc Giang\Desktop\Demo_WEB\FirstWindowsService\FirstWindowsService.csproj</ProjectName>
+      <CreatedDate>2018-04-05T22:29:20.8612191+07:00</CreatedDate>
+      <ViewedBy>Bui Duc Giang</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT0.0430097S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Bui Duc Giang\Desktop\Demo_WEB\FirstWindowsService\ProjectInstaller.resx</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Bui Duc Giang\Desktop\Demo_WEB\FirstWindowsService\FirstWindowsService.csproj</ProjectName>
+      <CreatedDate>2018-04-05T22:29:20.8387042+07:00</CreatedDate>
+      <ViewedBy>Bui Duc Giang</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M30.9922782S" EditActiveTime="PT5.2858867S">
+      <ModifiedDate>2018-04-05T22:57:24.5761607+07:00</ModifiedDate>
+      <ModifiedBy>Bui Duc Giang</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Bui Duc Giang\Desktop\Demo_WEB\FirstWindowsService\Service1.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Bui Duc Giang\Desktop\Demo_WEB\FirstWindowsService\FirstWindowsService.csproj</ProjectName>
+      <CreatedDate>2018-04-05T22:42:29.4389227+07:00</CreatedDate>
+      <ViewedBy>Bui Duc Giang</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT5M59.1876784S" EditActiveTime="PT2M40.3999441S">
+      <ModifiedDate>2018-04-05T23:25:02.2264698+07:00</ModifiedDate>
+      <ModifiedBy>Bui Duc Giang</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Bui Duc Giang\Desktop\Demo_WEB\FirstWindowsService\Utilities.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Bui Duc Giang\Desktop\Demo_WEB\FirstWindowsService\FirstWindowsService.csproj</ProjectName>
+      <CreatedDate>2018-04-05T22:07:27.6243961+07:00</CreatedDate>
+      <ViewedBy>Bui Duc Giang</ViewedBy>
+    </DevTrackerDataItem>
+  </TotalTimeList>
+  <HistoryTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT1M30.9922782S" EditActiveTime="PT5.2858867S">
+      <ModifiedDate>2018-04-05T22:57:24.5761607+07:00</ModifiedDate>
+      <ModifiedBy>Bui Duc Giang</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Bui Duc Giang\Desktop\Demo_WEB\FirstWindowsService\Service1.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Bui Duc Giang\Desktop\Demo_WEB\FirstWindowsService\FirstWindowsService.csproj</ProjectName>
+      <CreatedDate>2018-04-05T22:42:29.4389227+07:00</CreatedDate>
+      <ViewedBy>Bui Duc Giang</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT0.0244791S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Bui Duc Giang\Desktop\Demo_WEB\FirstWindowsService\ProjectInstaller.Designer.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Bui Duc Giang\Desktop\Demo_WEB\FirstWindowsService\FirstWindowsService.csproj</ProjectName>
+      <CreatedDate>2018-04-05T22:29:20.8612191+07:00</CreatedDate>
+      <ViewedBy>Bui Duc Giang</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT0.0430097S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Bui Duc Giang\Desktop\Demo_WEB\FirstWindowsService\ProjectInstaller.resx</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Bui Duc Giang\Desktop\Demo_WEB\FirstWindowsService\FirstWindowsService.csproj</ProjectName>
+      <CreatedDate>2018-04-05T22:29:20.8387042+07:00</CreatedDate>
+      <ViewedBy>Bui Duc Giang</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3M47.9566512S" EditActiveTime="PT23.1845881S">
+      <ModifiedDate>2018-04-05T22:42:27.7033629+07:00</ModifiedDate>
+      <ModifiedBy>Bui Duc Giang</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Bui Duc Giang\Desktop\Demo_WEB\FirstWindowsService\Program.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Bui Duc Giang\Desktop\Demo_WEB\FirstWindowsService\FirstWindowsService.csproj</ProjectName>
+      <CreatedDate>2018-04-05T22:21:40.9957013+07:00</CreatedDate>
+      <ViewedBy>Bui Duc Giang</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT4M10.7267078S" EditActiveTime="PT32.7952637S">
+      <ModifiedDate>2018-04-05T23:05:33.4886819+07:00</ModifiedDate>
+      <ModifiedBy>Bui Duc Giang</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Bui Duc Giang\Desktop\Demo_WEB\FirstWindowsService\ProjectInstaller.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Bui Duc Giang\Desktop\Demo_WEB\FirstWindowsService\FirstWindowsService.csproj</ProjectName>
+      <CreatedDate>2018-04-05T22:21:03.1774033+07:00</CreatedDate>
+      <ViewedBy>Bui Duc Giang</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT5M59.1881785S" EditActiveTime="PT2M40.3999441S">
+      <ModifiedDate>2018-04-05T23:25:02.2264698+07:00</ModifiedDate>
+      <ModifiedBy>Bui Duc Giang</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Bui Duc Giang\Desktop\Demo_WEB\FirstWindowsService\Utilities.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Bui Duc Giang\Desktop\Demo_WEB\FirstWindowsService\FirstWindowsService.csproj</ProjectName>
+      <CreatedDate>2018-04-05T22:07:27.6243961+07:00</CreatedDate>
+      <ViewedBy>Bui Duc Giang</ViewedBy>
+    </DevTrackerDataItem>
+  </HistoryTimeList>
+</DevTrackerData>
